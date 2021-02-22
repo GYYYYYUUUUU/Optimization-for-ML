@@ -12,5 +12,6 @@ Study
 * Weekly, Every Friday, 02.26~
 
 ## Contents
+
 |Numbers|Date|Topic|Video|Materials|
 |1|21.02.26|Convexity|video|notes|
