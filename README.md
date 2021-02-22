@@ -13,5 +13,6 @@ Study
 
 ## Contents
 
-|Numbers|Date|Topic|Video|Materials|
-|1|21.02.26|Convexity|video|notes|
+Numbers|Date|Topic|Video|Materials
+-------|-------|--------|------|-------
+1|21.02.26|Convexity|video|notes
