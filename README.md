@@ -5,9 +5,8 @@ Study
 ## Introduction
 
 * Reference : Optimization for ML (Sra), 2012
-* Reference 2 : https://github.com/epfml/OptML_course
 * Follows https://www.stat.cmu.edu/~ryantibs/convexopt-F18/
-* Video : Seyoung Yun.
+* Video Reference : Seyoung Yun, Youtube
 * Purpose : Understanding and able to arrange proofs for optimization in deep learning papers
 * Weekly, Every Friday, 02.26~
 
@@ -15,4 +14,5 @@ Study
 
 Numbers|Date|Topic|Video|Materials
 -------|-------|--------|------|-------
-1|21.02.26|Convexity|video|notes
+1|21.02.26|Convex Sets, Convex Functions|[video](https://youtu.be/kRwuYQrK4a4)|notes
+2|21.03.06|Convex Properties|[video]()|notes
